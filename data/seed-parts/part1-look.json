@@ -1,0 +1,384 @@
+[
+  {
+    "title": "How To Smell Better",
+    "description": "Scent is the cheapest upgrade a man can make. Learn what actually works, where to apply fragrance, and how to build a simple routine that lasts all day.",
+    "contentType": "GUIDE",
+    "category": "LOOK",
+    "subcategory": "grooming",
+    "tags": ["fragrance", "grooming", "routine", "smell"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": true,
+    "payload": {
+      "intro": "Most men either wear nothing or wear too much. Smelling better is not about expensive bottles; it is about hygiene first, then one fragrance applied in the right places, in the right amount, as part of a daily routine.",
+      "sections": [
+        {
+          "heading": "Start with the base: hygiene",
+          "paragraphs": [
+            "Fragrance cannot rescue a man who is not clean. Shower daily with a mild soap, dry properly, and deal with the three problem zones: underarms, feet, and anywhere skin folds. Wear a fresh undershirt every day.",
+            "Laundry matters more than cologne. Clothes that smell of old detergent or sweat undo everything. Wash gym gear immediately; do not let it sit in a bag."
+          ],
+          "bullets": [
+            "Daily shower, mild soap, dry thoroughly",
+            "Antiperspirant on clean, dry skin",
+            "Fresh undershirt daily",
+            "Gym clothes washed the same day"
+          ]
+        },
+        {
+          "heading": "Choose one fragrance, not five",
+          "paragraphs": [
+            "Build a rotation of two at most: one fresh and light for daytime and heat, one deeper for evenings and cold. Wearing the same scent consistently makes it become associated with you, which is the entire point.",
+            "Before buying, test it on your own skin, not a paper strip. Fragrance reacts with your body chemistry and changes over hours. Live with it for a full day before you commit."
+          ],
+          "bullets": [
+            "One fresh scent for day",
+            "One deeper scent for night",
+            "Test on skin for a full day",
+            "Buy the smaller bottle first"
+          ]
+        },
+        {
+          "heading": "Where to apply fragrance",
+          "paragraphs": [
+            "Apply fragrance to warm pulse points so it has somewhere to radiate from: the base of the throat, behind each ear, and the inner wrists. Do not rub your wrists together afterwards; friction heats and flattens the top notes.",
+            "Less is the rule. Two sprays on the chest under a shirt and one on the neck is plenty. Spray before you dress so the fabric does not stain, and keep it a hand-width away from the skin."
+          ],
+          "bullets": [
+            "Base of throat",
+            "Behind the ears",
+            "Inner wrists (no rubbing)",
+            "Optional: chest, under clothing"
+          ]
+        },
+        {
+          "heading": "Build the routine",
+          "paragraphs": [
+            "Attach scent to a habit you already have so you never forget it: after showering, after moisturizing, before you leave. One consistent spot in your morning routine means you never over-apply in a rush and never leave the house flat.",
+            "In hot weather, step the quantity down; heat pushes scent harder. In winter, one extra spray on the chest compensates for cold air."
+          ],
+          "bullets": [
+            "Shower",
+            "Moisturize",
+            "Apply deodorant",
+            "Two sprays: throat and chest",
+            "Dress",
+            "One spray on wrists, then leave"
+          ]
+        }
+      ],
+      "outro": "Clean first. One fragrance second. Pulse points third. Consistency always. That is the whole system."
+    }
+  },
+  {
+    "title": "14 Days of Better Grooming",
+    "description": "Two weeks of small daily grooming actions that add up to looking sharp without thinking about it. One task per day, all of them under 15 minutes.",
+    "contentType": "CHALLENGE",
+    "category": "LOOK",
+    "subcategory": "grooming",
+    "tags": ["grooming", "challenge", "hygiene", "routine"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": false,
+    "payload": {
+      "tagline": "Fourteen days to make grooming automatic instead of occasional.",
+      "duration": 14,
+      "dailyTasks": [
+        { "day": 1, "title": "Deep-clean your grooming kit", "detail": "Wash the razor, brush out the hairbrush, bin anything expired. A clean kit is the foundation of everything that follows." },
+        { "day": 2, "title": "Book your haircut", "detail": "Set a recurring three-to-four-week appointment today so it never depends on whether you remember." },
+        { "day": 3, "title": "Two-minute face routine", "detail": "Gentle cleanser, then moisturizer with SPF in the morning. That is the whole routine." },
+        { "day": 4, "title": "Nails: trim, file, clean", "detail": "Short, even, clean. Do it tonight, then maintain every four days for the rest of the challenge." },
+        { "day": 5, "title": "Shoe inspection and clean", "detail": "Brush off, wipe down, condition leather, replace worn laces. People notice shoes more than they let on." },
+        { "day": 6, "title": "Simplify your products", "detail": "Keep what you use daily; bin the rest. A crowded shelf is a routine you never run." },
+        { "day": 7, "title": "Eyebrow and ear check", "detail": "Trim stray brow and ear hairs with scissors. Subtle, but a fast way to look ten years fresher." },
+        { "day": 8, "title": "Wardrobe sniff test", "detail": "Smell every shirt and jacket. Anything that holds odor after washing gets a proper soak or the bin." },
+        { "day": 9, "title": "Fragrance audit", "detail": "Choose one daytime and one evening scent. Test today's on skin and wear it the full day before deciding." },
+        { "day": 10, "title": "Skincare in the evening too", "detail": "Cleanser and moisturizer before bed. Daytime you protect; nighttime you repair. Both take under two minutes." },
+        { "day": 11, "title": "Deodorant timing fix", "detail": "Apply to clean, dry skin right after the shower, not in a rush over yesterday's layer." },
+        { "day": 12, "title": "Hair product check", "detail": "One product is enough, and one fingertip, not a handful. Over-producting hair is as bad as none." },
+        { "day": 13, "title": "Lay out tomorrow's outfit tonight", "detail": "Everything including socks and shoes. Grooming and dressing both get faster when the decision is made the night before." },
+        { "day": 14, "title": "Lock the routine in", "detail": "Put the full routine in your calendar so it holds without the challenge. Then keep the chain going." }
+      ],
+      "bonus": ["Replace your toothbrush head every three months", "Keep a nail file in your bag"]
+    }
+  },
+  {
+    "title": "The Perfect Daily Grooming Routine",
+    "description": "The exact morning and evening sequence that keeps a man sharp with almost no thought. Morning takes six minutes; evening takes four.",
+    "contentType": "ROUTINE",
+    "category": "LOOK",
+    "subcategory": "grooming",
+    "tags": ["grooming", "routine", "hygiene", "skincare"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": true,
+    "payload": {
+      "overview": "A complete daily grooming routine in ten minutes a day: six in the morning, four at night.",
+      "steps": [
+        { "title": "Shower and dry properly", "detail": "Daily shower with a mild body wash. Dry fully, especially skin folds and between toes — damp skin is where problems start." },
+        { "title": "Cleanse, then moisturize with SPF", "detail": "Gentle cleanser, rinse, then moisturizer with SPF 30 in the morning. This single step does more for how your face ages than any expensive treatment." },
+        { "title": "Deodorant on clean, dry skin", "detail": "Apply right after drying off, not over yesterday's layer. Wet skin dilutes antiperspirant." },
+        { "title": "Hair: one product, fingertip amount", "detail": "Work a small amount evenly through dry or towel-dried hair. More product means greasy hair by noon." },
+        { "title": "Beard or stubble: trim the edges", "detail": "Clean the neck and cheek lines even on short stubble. The lines are what make it look deliberate." },
+        { "title": "Details check", "detail": "Ten seconds: nails short, hands not dry, collar clean. Prevents a sloppy first impression." },
+        { "title": "Fragrance: two sprays, pulse points", "detail": "Throat and chest, then wrists — do not rub. Attach it to the step before dressing so it never gets skipped." },
+        { "title": "Evening: cleanse and moisturize again", "detail": "Four minutes at night: rinse with cleanser, moisturize, brush teeth properly for two full minutes." },
+        { "title": "Lay out tomorrow's first move", "detail": "Towel, product, clothes. A routine survives friction; remove the friction nightly." },
+        { "title": "Weekly maintenance", "detail": "Once a week: hairline and nail check, shoe clean. Monthly: book the haircut before you need it." }
+      ]
+    }
+  },
+  {
+    "title": "Where To Apply Fragrance",
+    "description": "Two sprays in the right places beat six sprays in the wrong ones. The pulse points that actually carry a scent.",
+    "contentType": "TIP",
+    "category": "LOOK",
+    "subcategory": "fragrance",
+    "tags": ["fragrance", "grooming", "smell"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": false,
+    "payload": {
+      "text": "Apply fragrance to warm pulse points only: the base of the throat, behind each ear, and the inner wrists — and never rub your wrists together afterward, because friction flattens the top notes before anyone else can smell them."
+    }
+  },
+  {
+    "title": "A Man's Skin Care: The Only 4 Steps",
+    "description": "Forget the twelve-product shelf. Four steps — cleanse, treat, moisturize, protect — cover almost everything a man's skin actually needs.",
+    "contentType": "GUIDE",
+    "category": "LOOK",
+    "subcategory": "skin",
+    "tags": ["skincare", "grooming", "skin", "routine"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": true,
+    "payload": {
+      "intro": "Men's skin is generally thicker and oilier, which means the routine that works is simpler, not more complicated. Four steps, twice a day where it counts.",
+      "sections": [
+        {
+          "heading": "Step one: cleanse",
+          "paragraphs": [
+            "Wash your face with a mild cleanser morning and night. Hot water and harsh soaps strip the skin and push it to produce even more oil, which is the opposite of what you want.",
+            "If your skin feels tight and squeaky after washing, the cleanser is too strong. It should feel clean and neutral, nothing more."
+          ],
+          "bullets": ["Morning and night", "Lukewarm water only", "Mild, fragrance-free cleanser", "Pat dry, do not scrub"]
+        },
+        {
+          "heading": "Step two: treat one problem, not five",
+          "paragraphs": [
+            "Pick the single issue you actually have — oil, breakouts, or dullness — and use one targeted product for it. Five actives at once is how men end up irritated and quitting.",
+            "Introduce one product at a time and give it a few weeks. If it stings or burns, stop and simplify back to cleanse and moisturize."
+          ],
+          "bullets": ["Breakouts: simple salicylic acid wash", "Oil control: niacinamide serum", "Dullness: gentle exfoliation twice a week", "Introduce one change at a time"]
+        },
+        {
+          "heading": "Step three: moisturize",
+          "paragraphs": [
+            "Moisturizer keeps the skin barrier intact so it stops over-producing oil. Use a light, non-greasy formula in the morning and a slightly richer one at night if you feel dry.",
+            "Apply to damp skin right after washing — it locks in more water and takes ten seconds."
+          ],
+          "bullets": ["On damp skin, after cleansing", "Lighter in the morning, richer at night", "Include the neck", "Fragrance-free if sensitive"]
+        },
+        {
+          "heading": "Step four: protect",
+          "paragraphs": [
+            "Sunscreen is the single highest-return step in the whole routine. Daily SPF 30 or higher, even on cloudy days and even when you are mostly indoors near a window.",
+            "If one product must survive your laziness, make it this one. Everything else improves how you look today; this protects how your skin looks for decades."
+          ],
+          "bullets": ["SPF 30+, every morning", "Last step before anything else", "Reapply if outdoors at midday", "Non-negotiable, like brushing your teeth"]
+        }
+      ],
+      "outro": "Cleanse, treat one thing, moisturize, protect. Sixty seconds in the morning, ninety at night. Consistency beats every expensive product on the shelf."
+    }
+  },
+  {
+    "title": "Own 3 Watches, Not 10",
+    "description": "A three-watch rotation covers every situation a man actually faces — and costs less than one impulse buy.",
+    "contentType": "TIP",
+    "category": "LOOK",
+    "subcategory": "style",
+    "tags": ["style", "watches", "wardrobe", "accessories"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": false,
+    "payload": {
+      "text": "Own three watches, not ten: one clean steel piece for dress and office, one rugged everyday piece with a leather or fabric strap, and one simple sports watch for training — a rotation this small means every watch gets worn, looks intentional, and never becomes drawer jewellery."
+    }
+  },
+  {
+    "title": "One Jacket, Three Looks",
+    "description": "The single highest-return piece in a man's wardrobe, styled three ways for three levels of formality.",
+    "contentType": "TIP",
+    "category": "LOOK",
+    "subcategory": "style",
+    "tags": ["style", "wardrobe", "jacket", "outfit"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": false,
+    "payload": {
+      "text": "Buy one well-fitting unstructured jacket in navy or olive and style it three ways — over a white t-shirt and dark jeans for the weekend, over a button-down with chinos for the office, and over a fine knit with wool trousers for dinner — and you have tripled your outfit count with a single purchase."
+    }
+  },
+  {
+    "title": "The Low-Maintenance Haircut",
+    "description": "How to choose a cut that still looks good on day 25, between appointments, and in humid weather.",
+    "contentType": "TIP",
+    "category": "LOOK",
+    "subcategory": "hair",
+    "tags": ["hair", "grooming", "style"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": false,
+    "payload": {
+      "text": "Choose a cut whose shape matches how your hair actually behaves — ask your barber for the version that looks best with your natural growth pattern, keep the sides short enough to grow out cleanly, and book the next appointment before you leave the chair, because the difference between a good cut and a great one is how it looks three weeks later."
+    }
+  },
+  {
+    "title": "What's Your Signature Style?",
+    "description": "Six questions to identify the style lane that actually fits your life — so you stop buying clothes for a life you do not live.",
+    "contentType": "QUIZ",
+    "category": "LOOK",
+    "subcategory": "style",
+    "tags": ["style", "fashion", "identity", "quiz"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": false,
+    "payload": {
+      "intro": "There is no best style — only the one that matches your actual week.",
+      "questions": [
+        {
+          "question": "What does a normal workday look like for you?",
+          "options": ["Suit or formal office wear", "Smart casual: chinos and a shirt", "Fully casual or remote", "Uniform or physical work"],
+          "answerIndex": 1,
+          "explain": "Smart casual covers the widest range of modern weeks — it is the right core for most wardrobes."
+        },
+        {
+          "question": "Your ideal weekend outfit is:",
+          "options": ["Jeans, t-shirt, clean sneakers", "Loafers, linen, relaxed tailoring", "Gym kit that doubles as errand wear", "Whatever is clean"],
+          "answerIndex": 0,
+          "explain": "The jeans-and-clean-sneakers default works everywhere it is appropriate."
+        },
+        {
+          "question": "What do you currently own the most of?",
+          "options": ["T-shirts and hoodies", "Shirts and chinos", "Suits or smart clothes I rarely wear", "Sports and gym gear"],
+          "answerIndex": 1,
+          "explain": "Your rotatable smart casual base is worth doubling down on; the rest can shrink."
+        },
+        {
+          "question": "The phrase 'dress one level above' means what to you?",
+          "options": ["Overdressing for attention", "Showering before going out", "Matching the occasion with a step up in polish", "Buying one new piece each season"],
+          "answerIndex": 2,
+          "explain": "One level above signals respect for the occasion — and costs you nothing."
+        },
+        {
+          "question": "What kills most outfits for you?",
+          "options": ["Poor fit", "Wrinkles and stains", "Nothing — I rarely think about it", "I never know what matches"],
+          "answerIndex": 0,
+          "explain": "Fit is the whole game. A cheap garment that fits beats an expensive one that hangs off you."
+        },
+        {
+          "question": "How often do you buy clothes?",
+          "options": ["Every few months, reactively", "Rarely, until something breaks", "Seasonally with intent", "Too often, on impulse"],
+          "answerIndex": 2,
+          "explain": "Buying with a planned role for each piece keeps a wardrobe working and honest."
+        }
+      ]
+    }
+  },
+  {
+    "title": "Leaving The House In Order",
+    "description": "A ten-point sweep for the last ninety seconds before you walk out the door. Never be the man who forgot something.",
+    "contentType": "CHECKLIST",
+    "category": "LOOK",
+    "subcategory": "grooming",
+    "tags": ["grooming", "checklist", "style", "organization"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": false,
+    "payload": {
+      "intro": "Run this in ninety seconds on the way out. It catches almost everything that ruins a first impression.",
+      "items": [
+        { "label": "Teeth checked, no stains visible", "detail": "Quick mirror glance after your last drink." },
+        { "label": "Hair holds from more than one angle", "detail": "Check the back in a second mirror or a photo." },
+        { "label": "Collar, cuffs, and hem clean and flat", "detail": "The three places that finish an outfit or undo it." },
+        { "label": "Shoes clean, laces tidy", "detail": "Ten seconds of wiping saves a whole outfit." },
+        { "label": "No visible lint or pet hair", "detail": "Keep a roller by the door." },
+        { "label": "The three-point tap: wallet, keys, phone", "detail": "Physical tap every time: pocket, pocket, pocket." },
+        { "label": "Charger, earbuds, day-specific items packed", "detail": "Gym kit, documents, gifts — whatever today needs." },
+        { "label": "Scent applied, not oversprayed", "detail": "Two sprays, pulse points. Reach the door with it fresh." },
+        { "label": "Nails short and clean", "detail": "Glance daily; the weekly routine handles the rest." },
+        { "label": "One head-to-toe look in a full mirror", "detail": "Two seconds, top to bottom. The cheapest quality control that exists." }
+      ]
+    }
+  },
+  {
+    "title": "The Art of Looking Good",
+    "description": "Looking sharp is a system, not a mystery: fit, a working palette, a core wardrobe, and grooming that completes it all.",
+    "contentType": "GUIDE",
+    "category": "LOOK",
+    "subcategory": "style",
+    "tags": ["style", "wardrobe", "fit", "grooming"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": true,
+    "payload": {
+      "intro": "You do not need more clothes. You need fewer clothes that fit, that are clean, and that work together. This guide is the base most men were never taught.",
+      "sections": [
+        {
+          "heading": "Fit is the whole game",
+          "paragraphs": [
+            "Nothing ruins a good outfit faster than the wrong size. A cheap shirt that fits looks better than an expensive one that hangs off you. Fit is what people notice first, before color, before brand.",
+            "Start with shoulders and length. The shoulder seam sits at the edge of the shoulder. Shirts end around mid-zip on a trouser; trousers break once at the shoe, not pool around the ankle."
+          ],
+          "bullets": ["Shoulder seam sits on the shoulder bone", "Shirt covers the belt but not past mid-zip", "Trousers break once, cleanly", "Sleeves end at the wrist bone"]
+        },
+        {
+          "heading": "Build a palette you never think about",
+          "paragraphs": [
+            "A wardrobe works when almost everything goes with everything else. Stick to a tight palette: black, navy, charcoal, olive, white, grey, and one accent like burgundy or tan.",
+            "Prints and logos are seasoning, not the meal. Keep them rare. A man in a plain, well-fitted outfit looks more considered than a man covered in branding."
+          ],
+          "bullets": ["Base: black, navy, charcoal, white, grey", "Accent: olive, tan, burgundy", "One statement piece per outfit, maximum", "Logos stay small or stay home"]
+        },
+        {
+          "heading": "The five-piece core wardrobe",
+          "paragraphs": [
+            "If you own nothing else, own these five: dark trousers, well-fitting jeans, a plain button-down, a t-shirt that fits your shoulders, and a structured jacket. From that core you can build a week of outfits.",
+            "Every new purchase should combine with at least three things you already own. If it does not, it does not come home."
+          ],
+          "bullets": ["Dark trousers, wool or chino", "One pair of well-fitting jeans", "White or light-blue button-down", "Plain heavy t-shirt", "Structured jacket that fits the shoulders"]
+        },
+        {
+          "heading": "Grooming completes the outfit",
+          "paragraphs": [
+            "Clothes sit on top of a man. Hair, skin, nails, and shoes sit underneath everything else. You can wear the perfect outfit and lose it all with overgrown hair or scuffed shoes.",
+            "Shoes deserve special attention; people notice them more than they admit. Keep them clean and conditioned, replace the sole when it goes flat."
+          ],
+          "bullets": ["Haircut every three to four weeks", "Shoes cleaned weekly, conditioned monthly", "Nails short and clean", "Collar and cuffs spot-checked"]
+        },
+        {
+          "heading": "Dress one level above the room",
+          "paragraphs": [
+            "When you are unsure of the standard, dress one level above it. It signals respect for the occasion. Overdressed costs you nothing; underdressed costs you the room's attention.",
+            "Over time this becomes instinct. You will read a room faster and stop overthinking what you put on each morning."
+          ]
+        }
+      ],
+      "outro": "Look good quietly. The goal is not to be noticed for your clothes; it is to be taken seriously the moment you walk in."
+    }
+  },
+  {
+    "title": "Fragrance Families Explained",
+    "description": "Citrus, fresh, woody, oriental — a plain-language map of the scent families so you can describe what you like and buy with intention.",
+    "contentType": "KNOWLEDGE",
+    "category": "LOOK",
+    "subcategory": "fragrance",
+    "tags": ["fragrance", "grooming", "knowledge", "smell"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": false,
+    "payload": {
+      "body": "Every fragrance is a blend of notes, but they are usually grouped into a few families that make shopping speakable. Fresh and citrus scents are light, bright, and best for daytime and heat — think lemon, bergamot, green leaves, sea air. Woody scents sit on cedar, sandalwood, and vetiver; they are grounded, dry, and work well in the office. Oriental or amber scents lean warm and resinous — vanilla, amber, spice — typically worn in the evening or colder months. Leather and tobacco sit between wood and oriental: assertive, mature, and easy to over-apply.\n\nYou do not need to memorise the fragrance wheel. The practical version: buy one fresh daytime scent and one deeper evening scent, test each on your own skin for a full day before deciding, and let what you already enjoy — bright, green, warm, or smoky — point you to the correct family. Naming the family is what turns 'something nice' into a purchase you stop regretting."
+    }
+  }
+]

@@ -1,0 +1,5 @@
+Read the spec file at "C:\Users\elshinawy\Documents\Default Project\mens-only\data\CONTENT_PACK_SPEC.md" and execute the authoring task exactly as specified.
+
+Deliverable: write "C:\Users\elshinawy\Documents\Default Project\mens-only\data\seed-content.json" as the full content pack.
+
+After writing it: validate it parses as valid JSON (use node or python), then report (1) total item count, (2) a contentType x category coverage table, (3) the exact titles of the 8 mandatory flagship items listed in the spec, and (4) any deviations or notes.

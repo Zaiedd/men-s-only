@@ -1,0 +1,224 @@
+[
+  {
+    "title": "7 Days of Discipline",
+    "description": "One week of following through. Every day, one commitment you keep even when you do not feel like it — because discipline is in the doing.",
+    "contentType": "CHALLENGE",
+    "category": "MIND",
+    "subcategory": "discipline",
+    "tags": ["discipline", "challenge", "willpower", "habits"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": true,
+    "payload": {
+      "tagline": "Seven days where a promise you make to yourself must be kept.",
+      "duration": 7,
+      "dailyTasks": [
+        { "day": 1, "title": "Promise one thing, keep it", "detail": "Pick one small task tonight and complete it before the day ends. A kept promise is the whole skill." },
+        { "day": 2, "title": "Do the hardest thing first", "detail": "Identify today's most avoided task and do it in the first two working hours. The day bends around a strong start." },
+        { "day": 3, "title": "Guard a 25-minute block", "detail": "One focused block, phone in another room, one task. Twenty-five minutes is long enough to matter—ends before resistance peaks." },
+        { "day": 4, "title": "Say no once", "detail": "Decline one commitment you would have accepted automatically. A clean no keeps the promises that matter." },
+        { "day": 5, "title": "Train the morning, choose the evening", "detail": "Do your planned training in the morning. Making the hard choice early makes tonight's choices take care of themselves." },
+        { "day": 6, "title": "Repeat the weakest day", "detail": "Redo whichever day so far was hardest to keep. Discipline improves exactly where it previously eroded." },
+        { "day": 7, "title": "Write your discipline contract", "detail": "One sentence you will honour after the challenge ends: the habit, the trigger, and the consequence when you miss it." }
+      ],
+      "bonus": ["Wake at the same time every day", "Keep a running kept-promise tally"]
+    }
+  },
+  {
+    "title": "7 Days of No Procrastination",
+    "description": "Seven days of starting things anyway. The momentum of momentum — one small start per day, no exceptions.",
+    "contentType": "CHALLENGE",
+    "category": "MIND",
+    "subcategory": "focus",
+    "tags": ["procrastination", "focus", "challenge", "habits"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": false,
+    "payload": {
+      "tagline": "Start before you are ready, every day for a week.",
+      "duration": 7,
+      "dailyTasks": [
+        { "day": 1, "title": "The two-minute opening", "detail": "Pick the task you are avoiding and do two minutes of it. Two minutes counts. Starting is the behaviour, not finishing." },
+        { "day": 2, "title": "Write the next step, not the project", "detail": "Projects feel giant; steps feel doable. Name 'open the file and write the first heading.' Then do exactly that." },
+        { "day": 3, "title": "Phone in the other room for one session", "detail": "Distance beats willpower. One focused session with absurd phone distance is worth five with it on the desk." },
+        { "day": 4, "title": "Do the worst-rated item first", "detail": "The task you keep rescheduling. Two minutes today. Tomorrow it becomes routine and stops being a cliff." },
+        { "day": 5, "title": "Public promise", "detail": "Tell one person the thing you will have done by tonight. Accountability is optional leverage at maximum effect." },
+        { "day": 6, "title": "The imperfect finish", "detail": "Finish one task at 'good enough' rather than perfect. Done is a skill and it is under-practised." },
+        { "day": 7, "title": "Plan the first 30 minutes of tomorrow", "detail": "Tomorrow's first half-hour, written tonight. When day eight starts with a plan, the streak stops being a streak and becomes a mode." }
+      ],
+      "bonus": ["Sit in silence for three minutes before starting", "Delete one distracting app for the week"]
+    }
+  },
+  {
+    "title": "An Architecture for Discipline",
+    "description": "Discipline is not a personality trait; it is a structure you build. Environment, identity, systems, and accountability — the four walls.",
+    "contentType": "GUIDE",
+    "category": "MIND",
+    "subcategory": "discipline",
+    "tags": ["discipline", "habits", "systems", "mindset"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": false,
+    "payload": {
+      "intro": "People call the disciplined man strong-willed, but strength has a scaffold. The disciplined man has simply built environment, identity, routine, and accountability so his choices get easier each time.",
+      "sections": [
+        {
+          "heading": "Discipline by environment",
+          "paragraphs": [
+            "Most failures are decided before you enter the room. The phone in the next room, the gym bag at the door, the fridge and the sink — environment does the willpower work for you. Design the room so the right choice is the easy choice.",
+            "When you catch yourself relying on raw resistance, stop and ask what in the environment is doing the tempting. Remove it at the source, not by arguing with it at 11pm."
+          ],
+          "bullets": ["Phone in another room for focus blocks", "Gym bag packed the night before", "Only food you will eat in the kitchen", "Clothes laid out when the standard is the morning"]
+        },
+        {
+          "heading": "Discipline by identity",
+          "paragraphs": [
+            "Habits stick when they match who you see yourself as. 'I do not smoke' is a stronger sentence than 'I am trying to stop.' Decide the identity first — the man who trains, who reads, who keeps promises — and the actions follow more naturally.",
+            "Identity is built by small undeniable wins. You are not working towards being disciplined; you are being the kind of man who keeps his word, one day at a time."
+          ],
+          "bullets": ["Name the identity: 'I am someone who trains'", "Live it with small, daily proof", "Drop 'trying' — either it is, or it is not", "Let the identity drag the habits"]
+        },
+        {
+          "heading": "Discipline by system",
+          "paragraphs": [
+            "A system is a promise made to your future self in advance. A fixed training window, a scheduled review, a written next step each evening — these end 90% of daily decision-making. Decisions are where discipline leaks.",
+            "The key is the smallest reliable version. A system you actually run beats the perfect system you run once."
+          ],
+          "bullets": ["Fixed windows: train at a named time", "Written next step every evening", "Weekly review slot, same day every week", "The minimum version beats the ideal version"]
+        },
+        {
+          "heading": "Discipline by accountability",
+          "paragraphs": [
+            "Decide in advance how you will be held to it. A training partner, a check-in group, a public commitment. Agreement kept because someone saw it is still discipline; used honestly, it turns a lonely struggle into a shared standard.",
+            "Choose your audience carefully. One serious person outweighs ten who do not care."
+          ]
+        }
+      ],
+      "outro": "No man is strong every morning. The man who lasts is the one who removed the need for strength on the days it is scarce."
+    }
+  },
+  {
+    "title": "The 15-Minute Morning War Room",
+    "description": "A quarter of an hour that decides your whole day: journal the night before, orient, review, and protect the plan.",
+    "contentType": "ROUTINE",
+    "category": "MIND",
+    "subcategory": "focus",
+    "tags": ["morning", "planning", "focus", "discipline"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": true,
+    "payload": {
+      "overview": "Fifteen locked minutes: five reviewing the night before, five orienting on today, five protecting the plan from the day.",
+      "steps": [
+        { "title": "Open the night-before journal", "detail": "Open the page you wrote before sleeping. If the page is blank, write the three things 'must happen today' right now — order them by consequence, not by ease." },
+        { "title": "Name the one priority", "detail": "One item is the war. 'The win on this page pays for the rest of the day.' Everything else is scenery until it is done." },
+        { "title": "Block 90 minutes for it", "detail": "Put the priority in the calendar before anything else fills the space. Guarded at the schedule level, not by memory." },
+        { "title": "Scan the top three risks", "detail": "What could sink the day? The meeting that always runs long, the email you are dreading, the phone at 9am. Name it now and set a boundary for it." },
+        { "title": "Decide the first physical action", "detail": "The plan is a corpse until it becomes movement. Write the first literal step — 'open the file,' 'send the message.' Start there in five minutes." },
+        { "title": "Close the loop: write against tomorrow", "detail": "A two-line note on what today demanded. Not a diary; an instruction set for tomorrow morning. The war room builds itself forward." }
+      ]
+    }
+  },
+  {
+    "title": "The 4PM Reset",
+    "description": "The dip. The ninety minutes when focus collapses and will falters. A ten-minute reset that refuses the dip.",
+    "contentType": "ROUTINE",
+    "category": "MIND",
+    "subcategory": "focus",
+    "tags": ["afternoon", "energy", "focus", "routine"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": false,
+    "payload": {
+      "overview": "Every day has a dip. Ten minutes at 4pm that pulls you back up instead of letting the slide own the evening.",
+      "steps": [
+        { "title": "Stand up and step away, fully", "detail": "The screen stays behind. The reset starts with your body leaving the desk. No pointless scroll counts as 'away.'" },
+        { "title": "Two minutes of slow breathing", "detail": "Four seconds in, six out, standing tall or walking. It is the cheapest energy investment you will make all day." },
+        { "title": "Water and one real step outside if possible", "detail": "Sunlight, fresh air or a glass of water — the dip is often dehydration and artificial light talking." },
+        { "title": "Review the 4pm truth", "detail": "Two minutes reviewing the three priority items you set in the morning. Count: done, moving, or missing? Re-plan the missing one for the next hour." },
+        { "title": "Commit the first 25 minutes of the evening", "detail": "Name the single thing that finishes tonight. 'The dip' is often the point where you lose the evening to nothing at all." },
+        { "title": "Optional: power nap, 15 minutes max", "detail": "If the sleep debt is real, a 15-minute nap — alarm set, not on your bed — beats the 3pm coffee and the 1am regret." }
+      ]
+    }
+  },
+  {
+    "title": "Start Before You Feel Ready",
+    "description": "Readiness is a feeling that never arrives. The sequence is the other way around: start, then become ready.",
+    "contentType": "TIP",
+    "category": "MIND",
+    "subcategory": "confidence",
+    "tags": ["confidence", "fear", "starting", "action"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": false,
+    "payload": {
+      "text": "No one ever felt ready before the first rep, the first call, the first draft — readiness is a side effect of starting, not a requirement for it; take the first imperfect step and the feeling shows up halfway through, wearing the face of momentum."
+    }
+  },
+  {
+    "title": "What's Actually Stealing Your Focus?",
+    "description": "Six questions that find the real thieves — almost never where you first point the finger.",
+    "contentType": "QUIZ",
+    "category": "MIND",
+    "subcategory": "focus",
+    "tags": ["focus", "quiz", "productivity", "distraction"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": false,
+    "payload": {
+      "intro": "Your attention is being redirected hundreds of times a day. This quiz finds the loudest thief.",
+      "questions": [
+        {
+          "question": "When you sit down to work, what happens first?",
+          "options": ["Phone appears in my hand", "I open five tabs before starting", "I start, then stop to check something", "I start the actual task"],
+          "answerIndex": 1,
+          "explain": "The tab-opening before starting is a warm-up ritual of avoidance. Start is the moment to guard."
+        },
+        {
+          "question": "What breaks your concentration most during the day?",
+          "options": ["Notifications", "People interrupting", "My own tab-hopping", "Fatigue late afternoon"],
+          "answerIndex": 2,
+          "explain": "The biggest thief is usually internal tab-hopping — harder to see, closest to you."
+        },
+        {
+          "question": "Pick the statement that feels most true:",
+          "options": ["I check email and chats constantly", "I default to the easy task first", "I work, but rarely on the priority", "I rarely finish the 25-minute block"],
+          "answerIndex": 1,
+          "explain": "Defaulting to the easy task is attention flowing away from consequence — the classic leak."
+        },
+        {
+          "question": "How is your focus at the start of a session?",
+          "options": ["Strong but tunnels into detail", "Fragmented, takes 10+ minutes to settle", "Fine until a notification appears", "Zero — I skip straight to scrolling"],
+          "answerIndex": 2,
+          "explain": "If you can start strong, one notification rule may fix your entire day."
+        },
+        {
+          "question": "Where do the unresolved tasks of your week live?",
+          "options": ["Only in my head", "In fourteen tabs and notes", "On a list I actually check", "On a calendar, in writing"],
+          "answerIndex": 1,
+          "explain": "Unwritten tasks live in your head, which is where focus goes to die. Write them out."
+        },
+        {
+          "question": "What does the dip at 4pm do to you?",
+          "options": ["I accept it and ride into evening drift", "I fight it and half-work for two hours", "I reset with a break and continue", "I don't hit a meaningful dip"],
+          "answerIndex": 2,
+          "explain": "Naming the reset (like the 4PM Reset routine on this platform) is the difference between dip and shipwreck."
+        }
+      ]
+    }
+  },
+  {
+    "title": "Motivation Is a Reflection Problem",
+    "description": "Motivation does not precede action. It follows it — and it grows smart only when you look back at it from the other end.",
+    "contentType": "KNOWLEDGE",
+    "category": "MIND",
+    "subcategory": "mindset",
+    "tags": ["motivation", "mindset", "action", "knowledge"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": false,
+    "payload": {
+      "body": "Motivation is usually imagined as the fuel that gets you to the pump — a feeling you must have before you can act. The evidence points the other way. Motivation is a reflection: it shows up after you have started, wearing the face of your own momentum. Waiting to feel motivated is waiting for the water to appear before you open the tap.\n\nThe usable version of this is humble: your feelings are not a reliable schedule. Commit to a tiny first step — five minutes, one phone call, one set — because the first action is the least motivating and the most important, and action always kicks the feeling into gear faster than thought ever will.\n\nThere is a second, less obvious meaning. Motivation is a reflection of how well your habits and environment are built. If you consistently cannot get started, the problem is rarely a shortage of 'grit' and usually a shortage of design: the task is too big, the trigger too weak, the phone too close. Frost the system, lay the gear out, shrink the first step to absurd smallness, and 'motivation' suddenly arrives on time, every time — a mirror image of a plan that already works."
+    }
+  }
+]

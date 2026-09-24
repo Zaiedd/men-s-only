@@ -1,0 +1,279 @@
+[
+  {
+    "title": "30 Days of Fitness Consistency",
+    "description": "Thirty consecutive days of moving the needle. One daily training action, scaled to your level, engineered so missing a day is harder than doing it.",
+    "contentType": "CHALLENGE",
+    "category": "BODY",
+    "subcategory": "fitness",
+    "tags": ["fitness", "challenge", "training", "consistency"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": true,
+    "payload": {
+      "tagline": "Thirty days. One action daily. The goal is the chain, not a single workout.",
+      "duration": 30,
+      "dailyTasks": [
+        { "day": 1, "title": "Define your 'good enough' workout", "detail": "Write down the minimum session you can do on your worst day: 20 minutes, 15 push-ups, a walk. That becomes your floor for 30 days." },
+        { "day": 2, "title": "Schedule training like a meeting", "detail": "Pick a fixed time window on at least five days a week and put it in your calendar. Unplanned training does not survive a busy week." },
+        { "day": 3, "title": "Train: strength session A", "detail": "Push-ups, squats, rows, and a plank hold. Three rounds, honest effort. This is the base session for the month." },
+        { "day": 4, "title": "Walk 30 minutes without a phone", "detail": "No headphones, no calls. Just the walk. The phone is a barbell for attention." },
+        { "day": 5, "title": "Drink a glass of water on waking", "detail": "Dock it next to an existing habit so it cannot be missed. Small, but it is the first link in today's chain." },
+        { "day": 6, "title": "Train: strength session A again", "detail": "Same as day 3. Try to beat it by one rep on your weak movement. Progress is the point, not perfection." },
+        { "day": 7, "title": "Rest with intention", "detail": "Do nothing demanding. Walk if you like, stretch if you want. The chain stays: showing up is still the task today." },
+        { "day": 8, "title": "Find your protein anchor", "detail": "Decide the one meal that always carries protein for you — eggs at breakfast or a chicken lunch — and make it a rule for the rest of the month." },
+        { "day": 9, "title": "Train: strength session B", "detail": "Introduce one new movement: pull-ups or inverted rows, lunges, and a side plank. Three rounds." },
+        { "day": 10, "title": "Deadline: clean up your day", "detail": "Slept, hydrated, trained. If one of the three is consistently broken, name it now and fix it this weekend." },
+        { "day": 11, "title": "Train: session A, +1 rep minimum", "detail": "Beat your day-6 numbers by at least one rep on the list. If you cannot, the session intensity is the problem — add a rep anyway." },
+        { "day": 12, "title": "Sprint or hill walk 10 minutes", "detail": "Ten quality minutes beats forty uncertain ones. Heart rate up, then cool down properly." },
+        { "day": 13, "title": "Protein check-in", "detail": "Count your protein for one day without judgement. If it is under one gram per kilo of body weight, add one real serving tomorrow." },
+        { "day": 14, "title": "Halfway review", "detail": "A line for what is working, one for what is not, one adjustment for the next fourteen days. Consistency beats intensity here, too." },
+        { "day": 15, "title": "Train: session B, +1 rep", "detail": "Beat day 9 on at least one movement. Push the comfortable movements a little harder." },
+        { "day": 16, "title": "Sleep prep night", "detail": "No screens for 45 minutes before bed, dark room, same bedtime as last night and tomorrow. Recovery is where the training actually happens." },
+        { "day": 17, "title": "Train: session A with a focus set", "detail": "A normal session plus one slow, controlled set on your least favourite movement. That movement is usually the one that matters most." },
+        { "day": 18, "title": "Active recovery", "detail": "Light mobility or a long walk. Feel your body report in — that feedback is data you cannot get anywhere else." },
+        { "day": 19, "title": "Eat with no distractions", "detail": "One meal today with no screen. Eat slower, stop earlier, notice how different it feels." },
+        { "day": 20, "title": "Train: full circuit", "detail": "Push, pull, squat, hinge, carry — one round of each, three total rounds, short rests. Two-thirds of the month done." },
+        { "day": 21, "title": "Check the habit anchors", "detail": "Are training, protein, and sleep still attached to triggers in your day? Reinforce the two weakest links now, not on day 29." },
+        { "day": 22, "title": "Train: session B, last hard push", "detail": "Beat your best numbers from this month. This is the session that proves the chain works." },
+        { "day": 23, "title": "Mobility reset", "detail": "Ten minutes of hips, shoulders, and ankles. Do the positions you avoid; that is where the tightness lives." },
+        { "day": 24, "title": "Backup workout check", "detail": "Write your emergency session for a 'worst day in a while': 15 minutes, no equipment, anywhere. This removes the last excuse." },
+        { "day": 25, "title": "Train: session A, for the chain", "detail": "No personal bests to chase. Just a clean, honest session. The chain is the goal now." },
+        { "day": 26, "title": "Extra rest if needed", "detail": "Read your body honestly. If a noisy joint or deep fatigue says rest, rest — and still complete the day's small task: a 10-minute walk." },
+        { "day": 27, "title": "Protein and water standard", "detail": "Do today 'by the book' on water and protein. Feel the difference when you are fuelled versus not." },
+        { "day": 28, "title": "Train: best session of the month", "detail": "Pick any session you did well and run it again with full effort. Finish knowing exactly what you are capable of." },
+        { "day": 29, "title": "Set the continuity thread", "detail": "Decide the single habit that survives after day 30 — five sessions a week, a protein anchor, or the morning water. Choose one, not three." },
+        { "day": 30, "title": "Close the month, set the next", "detail": "Write three sentences: what worked, what broke, and the one thing that continues. The chain is yours now." }
+      ],
+      "bonus": ["Do 10 pull-ups every other day", "Swap one sugar drink a day for water"]
+    }
+  },
+  {
+    "title": "7 Days of Cold Showers",
+    "description": "Seven days of cold closes. A short physical shock with a long psychological payoff: it proves you choose discomfort on purpose.",
+    "contentType": "CHALLENGE",
+    "category": "BODY",
+    "subcategory": "recovery",
+    "tags": ["cold", "challenge", "discipline", "recovery"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": false,
+    "payload": {
+      "tagline": "One week of ending every shower cold. Small pain, trainable will.",
+      "duration": 7,
+      "dailyTasks": [
+        { "day": 1, "title": "30 seconds of cold", "detail": "Shower normally, finish with 30 seconds of cold. Breathe slowly, do not gasp and bail." },
+        { "day": 2, "title": "45 seconds, stay calm", "detail": "Slow breathing wins the mental game before the water does. Let the shower find its pace." },
+        { "day": 3, "title": "60 seconds, cold last", "detail": "A full minute of deliberate finish. Notice the calm after, not just the shock during." },
+        { "day": 4, "title": "60 seconds, pick the spot", "detail": "Direct the water: shoulders, chest, back. Wandering water is a wish; focused water is a session." },
+        { "day": 5, "title": "90 seconds, no music", "detail": "Silence keeps you present. Count the seconds if it helps, but do not escape them." },
+        { "day": 6, "title": "90 seconds, think about why", "detail": "You are not becoming a different man. You are training the muscle that chooses difficulty today so tomorrow is easier." },
+        { "day": 7, "title": "2 minutes, finish strong", "detail": "Two minutes of cold. Then decide what the practice becomes: daily, or when you need to reset. The week proved the choice is yours." }
+      ],
+      "bonus": ["Start with cold first and last", "Add a breathing hold when it gets easy"]
+    }
+  },
+  {
+    "title": "Build a Training Base Without a Gym",
+    "description": "Everything you need to start building strength, conditioning, and mobility with only floor and body weight.",
+    "contentType": "GUIDE",
+    "category": "BODY",
+    "subcategory": "fitness",
+    "tags": ["fitness", "training", "bodyweight", "strength"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": false,
+    "payload": {
+      "intro": "The gym is a convenience, not a requirement. A base can be built in ninety minutes a week with your own body and a floor.",
+      "sections": [
+        {
+          "heading": "The movement pillars",
+          "paragraphs": [
+            "A complete home base trains five patterns: push, pull, squat, hinge, and carry. Push-ups handle the pushing. Find a table, door frame, or low bar for inverted rows and pull-ups. Squats need nothing. A hinge means bridges or kettlebell-style swings with anything heavy and sturdy. Carries mean walking while holding weight — a filled backpack works.",
+            "That is already a full session. Do not add variety; add load and reps over time."
+          ],
+          "bullets": ["Push: push-ups, elevated or assisted", "Pull: door-frame rows, table rows", "Squat: bodyweight squats and lunges", "Hinge: glute bridges, backpack swings", "Carry: loaded walks"]
+        },
+        {
+          "heading": "The base program",
+          "paragraphs": [
+            "Train twice a week with one day between sessions, using a three-round circuit. Round one and two at a comfortable pace, round three genuinely hard.",
+            "For each session: ten push-ups, ten rows, ten squats, ten bridges, and a one-minute loaded carry, three rounds. When you can complete round three cleanly at thirty seconds of rest, add one rep to every movement."
+          ],
+          "bullets": ["Aim for 20 minutes, three rounds", "Rest 60-90 seconds between rounds", "Harder last round on purpose", "Add one rep per movement weekly"]
+        },
+        {
+          "heading": "Progression without weights",
+          "paragraphs": [
+            "The mind gives up early, the body later — so add load slowly. The progression ladder goes: more reps, then slower reps (three seconds down), then harder variations. Knee push-ups to full push-ups to decline push-ups. Table rows to bent-over rows to pull-ups.",
+            "Aim to feel 'work but not failure' at the end of each set. The goal this month is habit and honest effort, not a number on a screen."
+          ],
+          "bullets": ["Reps first, then tempo, then variation", "Three seconds down on every repetition", "Leave one rep in the tank most sets", "One 'hard set' per session, not ten"]
+        },
+        {
+          "heading": "Conditioning and recovery",
+          "paragraphs": [
+            "Two or three times a week, add one conditioning block: a brisk twenty-minute walk, ten minutes of intervals, or a loaded carry walk with the backpack. Keep it simple.",
+            "Sleep and food carry the progress. Training breaks the body down; the knitting back together happens at night and at the table. Ten nights of bad sleep undo three good sessions."
+          ],
+          "bullets": ["20-minute walk as the minimum cardio", "Backpack carries double as getting-stronger cardio", "Sleep seven-plus hours on training days", "Protein at every meal that matters"]
+        }
+      ],
+      "outro": "Ninety minutes a week, no gym, five patterns, honest effort. A base is built with decisions, not equipment."
+    }
+  },
+  {
+    "title": "The Morning Mobility Reset",
+    "description": "Seven minutes to undo a night of sleeping shapes and wake up the hips, shoulders, and spine.",
+    "contentType": "ROUTINE",
+    "category": "BODY",
+    "subcategory": "recovery",
+    "tags": ["mobility", "recovery", "morning", "stretching"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": false,
+    "payload": {
+      "overview": "Seven minutes, no equipment, immediately after rising. It credits the day's account before coffee drains it.",
+      "steps": [
+        { "title": "Cat-cow, ten slow cycles", "detail": "Move the spine through full flexion and extension, one breath per cycle. This is the warm-up for the rest of the routine." },
+        { "title": "World's greatest stretch", "detail": "Lunge forward on one side, twist the same arm to the ceiling, hold; repeat both sides. Opens hips and mid-back in one shape." },
+        { "title": "90/90 hip switches, five each side", "detail": "Sit in a hip-open 90/90 position, raise your back knee with control, and switch sides. The gift that keeps giving to your hips all day." },
+        { "title": "Wall chest opener, 30 seconds each arm", "detail": "Forearm on the wall, body rotated away until you feel the chest open. Sitting and screens close you forward; this reopens you." },
+        { "title": "Dead hangs or table rows if you can", "detail": "Ten seconds hanging resets the shoulders instantly. If no bar exists, a slow shoulder roll lap suffices." },
+        { "title": "Standing side bend, three each side", "detail": "Quiet obligation to the spine's sideways freedom, ignored by most training and most lives." },
+        { "title": "Ten slow deep breaths standing tall", "detail": "Stand tall, breathe into the belly, exhale long. The posture of the day starts here." }
+      ]
+    }
+  },
+  {
+    "title": "The Night-Before-You-Train Checklist",
+    "description": "Run this the evening before every session and walk into the gym already having won half the battle.",
+    "contentType": "CHECKLIST",
+    "category": "BODY",
+    "subcategory": "fitness",
+    "tags": ["fitness", "checklist", "preparation", "training"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": false,
+    "payload": {
+      "intro": "The workout is decided tonight. Tomorrow is just the execution step.",
+      "items": [
+        { "label": "Session written before you sleep", "detail": "Movements chosen, order fixed, target reps stated. No decisions in the gym." },
+        { "label": "Clothes and shoes laid out", "detail": "From socks to headphones. Removes the first doorway hesitation." },
+        { "label": "Water bottle refilled before bed", "detail": "Hydration is the easiest session detail to skip and the cheapest to fix." },
+        { "label": "Tomorrow's alarm set for the window", "detail": "The session has a scheduled start time, plus a backup slot named today." },
+        { "label": "Protein anchored to a meal", "detail": "The post-session or pre-session fuel decision made now, not in hunger." },
+        { "label": "Bag positioned by the door, one rep or zero excuses", "detail": "A prepared bag means the decision happens once, tonight." },
+        { "label": "Screen cutoff time committed", "detail": "Sleep beats the second session you will skip. Name the cutoff tonight." },
+        { "label": "Bathroom the Key last thing", "detail": "Empty stomach, strong start. Avoid the mid-session hunger fade." }
+      ]
+    }
+  },
+  {
+    "title": "The Real Cost of Skipping Sleep",
+    "description": "Sleep is not downtime. It is the period when training adapts, memory consolidates, and mood stabilises — and the man who skips it pays daily.",
+    "contentType": "KNOWLEDGE",
+    "category": "BODY",
+    "subcategory": "sleep",
+    "tags": ["sleep", "recovery", "health", "knowledge"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": true,
+    "payload": {
+      "body": "Sleep is where the body does its actual work: muscle repairs, memory consolidates, hunger hormones reset, and the immune system runs its night shift. A man who sleeps badly for weeks does not just feel tired — he trains weaker, craves sugar, gets sick more often, and makes poorer decisions, almost without noticing the cause.\n\nThe practical standard is seven to eight hours, on a consistent schedule. The length matters less than the consistency; a bed at 23:30 every night beats an erratic 01:30 three nights a week. Habits that quietly destroy sleep are usually screens late in the evening, caffeine after early afternoon, alcohol near bedtime, and a room that is warmer and brighter than it should be.\n\nSleep is usually the highest-leverage change available. Fix the schedule, darken the room, cut the late coffee, and you will feel the difference faster than from any supplement or workout. Treat it as a trained skill and protect it like a project deadline. It is not a luxury you borrow from tomorrow; it is the compounding engine of everything else on this platform."
+    }
+  },
+  {
+    "title": "How Muscle Is Actually Built",
+    "description": "What happens inside a muscle when you train, eat, and sleep — and why the gym is only a third of the process.",
+    "contentType": "KNOWLEDGE",
+    "category": "BODY",
+    "subcategory": "fitness",
+    "tags": ["muscle", "fitness", "training", "nutrition", "knowledge"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": false,
+    "payload": {
+      "body": "Muscle growth is a three-part equation, and training is only one part of it. Training provides the signal: resistance near failure tells the body, 'make this muscle stronger.' Exercise does not build muscle by itself; it creates the damage and the signal that triggers the building.\n\nThe building materials come from food — protein around 1.6 to 2 grams per kilogram of body weight daily, spread across the day. Surviving the low protein days is why most men stall. And the construction happens at night: growth hormone and repair largely operate during deep sleep. Two of the three parts — food and sleep — happen outside the gym entirely.\n\nThis is why 'training harder' does not automatically mean 'growing faster.' Progressive overload matters: a slightly harder stimulus each week — more weight, or more reps at the same weight. Recovery matters more: muscle is adapted during rest, between sessions, not during them. If you are doing everything except sleeping and eating 'well enough,' you are doing two-thirds of the work for a third of the result. The most honest summary: train hard enough to make the body adapt, feed the adaptation, and sleep long enough to finish the construction."
+    }
+  },
+  {
+    "title": "Eat Protein With Every Meal",
+    "description": "Stop treating protein as a supplement question. It is a plate question, three times a day.",
+    "contentType": "TIP",
+    "category": "BODY",
+    "subcategory": "nutrition",
+    "tags": ["nutrition", "protein", "food", "health"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": false,
+    "payload": {
+      "text": "Put protein on the plate at every single meal — eggs at breakfast, meat or fish at lunch, something substantial at dinner — because spreading protein beats one giant slab, and a plate built from protein first automatically fixes most of the other nutrition mistakes you would otherwise make."
+    }
+  },
+  {
+    "title": "Fix Your Posture In 60 Seconds, Twice a Day",
+    "description": "The two-minute daily routine that keeps the shoulders where they belong after eight hours of sitting.",
+    "contentType": "TIP",
+    "category": "BODY",
+    "subcategory": "fitness",
+    "tags": ["posture", "mobility", "work", "health"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": false,
+    "payload": {
+      "text": "Set two alerts a day — one at mid-morning, one at mid-afternoon — and for sixty seconds each: roll the shoulders up, back, and down; tuck the chin; and stand tall as if being lifted by a thread from the crown of your head. Twice daily beats a heroic once-a-month attempt every time."
+    }
+  },
+  {
+    "title": "Nutrition Basics: What Are You Actually Eating?",
+    "description": "A five-question check on whether you are eating for the body you want.",
+    "contentType": "QUIZ",
+    "category": "BODY",
+    "subcategory": "nutrition",
+    "tags": ["nutrition", "food", "health", "quiz"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": false,
+    "payload": {
+      "intro": "Six honest questions about what is actually crossing your plate.",
+      "questions": [
+        {
+          "question": "How often do you eat protein at breakfast?",
+          "options": ["Almost never", "Two or three mornings a week", "Most mornings", "Every morning"],
+          "answerIndex": 3,
+          "explain": "Proteins at the first meal of the day level out your energy curve and appetite for hours."
+        },
+        {
+          "question": "How many servings of vegetables did you eat yesterday?",
+          "options": ["Zero", "One", "Two", "Three or more"],
+          "answerIndex": 3,
+          "explain": "Volume, fiber, and micronutrients come from vegetables; aim for three servings as a day."
+        },
+        {
+          "question": "Where do most of your drinks' calories come from?",
+          "options": ["Sugary drinks and sweet coffee", "Milk and juice", "Coffee, mostly black", "Water and unsweetened drinks"],
+          "answerIndex": 3,
+          "explain": "Liquid calories are the easiest ones to cut without noticing, and the most common hidden leak."
+        },
+        {
+          "question": "What is usually the largest portion on your plate?",
+          "options": ["Bread, rice, pasta, or potatoes", "Fried or processed food", "Protein and vegetables", "Depends on the day"],
+          "answerIndex": 2,
+          "explain": "Protein and vegetables at the centre of the plate means energy, fullness, and recovery all improve."
+        },
+        {
+          "question": "When did you last eat fast food because nothing else was ready?",
+          "options": ["Yesterday or today", "This week", "This month", "I plan most meals in advance"],
+          "answerIndex": 3,
+          "explain": "Preparation, not willpower, solves food. Planned meals remove the emergency decision."
+        },
+        {
+          "question": "How does your eating change on weekends?",
+          "options": ["Everything changes", "A bit looser", "Same small slips", "Basically the same"],
+          "answerIndex": 3,
+          "explain": "The closest to your 'remains true across all seven days' pattern is the one that wins."
+        }
+      ]
+    }
+  }
+]

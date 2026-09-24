@@ -1,0 +1,211 @@
+// ============================================================
+//  MEN'S ONLY · Platform Schema
+//  Content-first discovery platform for modern men.
+//  Built for continuous content expansion (100 → 10k+ items).
+// ============================================================
+
+generator client {
+  provider = "prisma-client"
+  output   = "../src/generated/prisma"
+}
+
+datasource db {
+  provider = "sqlite"
+}
+
+// ---------------- Enums ----------------
+
+enum Role {
+  USER
+  ADMIN
+}
+
+enum ContentType {
+  GUIDE
+  TIP
+  ROUTINE
+  CHALLENGE
+  CHECKLIST
+  QUIZ
+  KNOWLEDGE
+}
+
+enum ContentStatus {
+  DRAFT
+  PUBLISHED
+  ARCHIVED
+}
+
+enum Difficulty {
+  BEGINNER
+  INTERMEDIATE
+  ADVANCED
+}
+
+enum ActivityType {
+  VIEW
+  SAVE
+  UNSAVE
+  START_CHALLENGE
+  COMPLETE_DAY
+  COMPLETE_CHALLENGE
+}
+
+enum ProgressStatus {
+  ACTIVE
+  COMPLETED
+  ABANDONED
+}
+
+// ---------------- Users ----------------
+
+model User {
+  id           String   @id @default(cuid())
+  name         String
+  email        String   @unique
+  passwordHash String
+  role         Role     @default(USER)
+
+  // -- profile / streak -- (minimal, mature indicators)
+  streak             Int       @default(0)
+  bestStreak         Int       @default(0)
+  totalDaysActive    Int       @default(0)
+  challengesCompleted Int      @default(0)
+  lastActiveDay      DateTime?
+
+  // -- light personalization: JSON {"categoryKey": viewCount}
+  categoryAffinity String @default("{}")
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  savedItems         SavedItem[]
+  challengeProgress  ChallengeProgress[]
+  activities         Activity[]
+
+  @@index([role])
+  @@index([email])
+}
+
+// ---------------- Categories & Content ----------------
+
+model Category {
+  id            String  @id @default(cuid())
+  key           String  @unique // BODY | LOOK | MIND | LIFE | KNOWLEDGE
+  label         String
+  tagline       String
+  order         Int     @default(0)
+  subcategories String    @default("[]") // JSON [{ key, label }]
+
+  contents Content[]
+
+  @@index([order])
+}
+
+model Content {
+  id          String      @id @default(cuid())
+  slug        String      @unique
+  title       String
+  description String
+  contentType ContentType
+  status      ContentStatus @default(DRAFT)
+  difficulty  Difficulty  @default(BEGINNER)
+  featured    Boolean     @default(false)
+
+  categoryId String
+  category   Category     @relation(fields: [categoryId], references: [id])
+  subcategory String? // key from category.subcategories
+
+  // tags stored as comma-separated string (simple & searchable with SQLite LIKE)
+  tags        String  @default("")
+
+  // denormalized search corpus: title + description + tags + subcategory + payload text
+  searchText  String @default("")
+
+  image       String?
+  altText     String?
+  authorName  String?
+  source      String?
+
+  readingTime Int?
+  payload     String // JSON, type-specific structured content
+
+  seoTitle       String?
+  seoDescription String?
+
+  featuredAt  DateTime?
+  publishedAt DateTime?
+  createdAt   DateTime  @default(now())
+  updatedAt   DateTime  @updatedAt
+
+  views Int @default(0)
+
+  savedItems        SavedItem[]
+  challengeProgress ChallengeProgress[]
+  activities        Activity[]
+
+  @@index([status, contentType])
+  @@index([status, featured])
+  @@index([categoryId, status])
+  @@index([publishedAt])
+  @@index([subcategory, status])
+}
+
+// ---------------- User interactions ----------------
+
+model SavedItem {
+  id        String   @id @default(cuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  contentId String
+  content   Content  @relation(fields: [contentId], references: [id], onDelete: Cascade)
+  createdAt DateTime @default(now())
+
+  @@unique([userId, contentId])
+  @@index([userId, createdAt])
+}
+
+model ChallengeProgress {
+  id        String        @id @default(cuid())
+  userId    String
+  user      User          @relation(fields: [userId], references: [id], onDelete: Cascade)
+  contentId String
+  content   Content       @relation(fields: [contentId], references: [id], onDelete: Cascade)
+
+  status     ProgressStatus @default(ACTIVE)
+  currentDay Int            @default(1)
+
+  startedAt   DateTime @default(now())
+  completedAt DateTime?
+  updatedAt   DateTime @updatedAt
+
+  days ChallengeDayProgress[]
+
+  @@unique([userId, contentId])
+  @@index([userId, status])
+}
+
+model ChallengeDayProgress {
+  id         String   @id @default(cuid())
+  progressId String
+  progress   ChallengeProgress @relation(fields: [progressId], references: [id], onDelete: Cascade)
+  day        Int
+  completedAt DateTime @default(now())
+
+  @@unique([progressId, day])
+  @@index([progressId])
+}
+
+model Activity {
+  id          String       @id @default(cuid())
+  userId      String
+  user        User         @relation(fields: [userId], references: [id], onDelete: Cascade)
+  type        ActivityType
+  contentId   String?
+  content     Content?     @relation(fields: [contentId], references: [id], onDelete: SetNull)
+  categoryKey String?
+  createdAt   DateTime     @default(now())
+
+  @@index([userId, createdAt])
+  @@index([userId, type])
+}

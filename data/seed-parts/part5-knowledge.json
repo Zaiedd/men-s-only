@@ -1,0 +1,275 @@
+[
+  {
+    "title": "How To Learn Any Skill In 90 Days",
+    "description": "Ninety days is the honest horizon for becoming genuinely good — if you learn the way real learners do, not the way motivation promised you.",
+    "contentType": "GUIDE",
+    "category": "KNOWLEDGE",
+    "subcategory": "skills",
+    "tags": ["learning", "skills", "growth", "discipline"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": false,
+    "payload": {
+      "intro": "Most 'learn a language in a month' promises are marketing dressed as hope. Ninety days, trained correctly, is the truthful minimum for a skill that is actually yours.",
+      "sections": [
+        {
+          "heading": "Define the outcome, not the content",
+          "paragraphs": [
+            "Don't say 'I'll learn to code.' Say 'I'll build a tool that organises my receipts.' Content people drown in courses; outcome people build filters. What would prove to you, honestly, that the skill now exists? Write that down first.",
+            "Narrow it. A skill at depth beats five skills at acquaintance. One language you actually speak, not three with holiday vocabulary."
+          ],
+          "bullets": ["State the proof of skill in one sentence", "One outcome, not a list", "Define what 'done' looks like in 90 days", "Narrow beats wide"]
+        },
+        {
+          "heading": "Structure: spaced repetition beats grinding",
+          "paragraphs": [
+            "The best schedule is 30 focused minutes daily rather than heroic 4-hour marathons. The forgetting curve is the enemy; spaced repetition is how you defeat it. Review yesterday's element before learning today's.",
+            "Every session ends with a concrete artifact: a sentence, a diagram, a runnable piece. Passive watching is entertainment, learning needs output."
+          ],
+          "bullets": ["30 minutes daily beats 4 hours weekly", "Review yesterday before today", "End each session with output", "Attendance sheet — the calendar is the skill"]
+        },
+        {
+          "heading": "Practice the resistance zone",
+          "paragraphs": [
+            "Real growth happens just past the comfortable level. Aim for 'challenges but still succeeds about 80 percent of the time.' Too easy is a video tick; too hard is a rubble of quitting.",
+            "Get feedback early and often. A teacher, a platform, a friend who actually knows — feedback is the steering wheel of the 90 days."
+          ],
+          "bullets": ["Aim for 80% success, 20% struggle", "Seek feedback from one serious person", "Video yourself if no teacher exists", "Fix errors the same day"]
+        },
+        {
+          "heading": "The real calendar: 90 days, 90 sessions",
+          "paragraphs": [
+            "Anyone can do 90 days of training with honesty: some days strong, some days 15 minutes of 'enough.' The streak protects the skill. Logger not allowed, excuses not ingredients.",
+            "At day 45 take the measurement again; at day 90 perform the proof. The man who does ninety honest sessions owns the skill. The man who watches ninety tutorial videos owns nothing."
+          ]
+        }
+      ],
+      "outro": "Ninety days, one outcome, daily output, honest resistance. The skill is not the gift; the protocol is — and it works for the next skill, and the next."
+    }
+  },
+  {
+    "title": "14 Days of Reading Before Bed",
+    "description": "Two weeks of returning reading to the final hour of the day — and reclaiming the night from the screens.",
+    "contentType": "CHALLENGE",
+    "category": "KNOWLEDGE",
+    "subcategory": "skills",
+    "tags": ["reading", "challenge", "habits", "sleep"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": false,
+    "payload": {
+      "tagline": "Fourteen nights of books where the screen used to live.",
+      "duration": 14,
+      "dailyTasks": [
+        { "day": 1, "title": "Pick a real book", "detail": "Paper, or a dedicated e-reader. Not a phone. A text you will not skim at 1am." },
+        { "day": 2, "title": "Read 10 pages, phone in another room", "detail": "Ten pages, no phone in the room. The phone is the relapse drug; distance is the rehab." },
+        { "day": 3, "title": "15 minutes, same hour", "detail": "Reading moves into a fixed slot — the same hour as yesterday, protected tonight like a meeting that matters." },
+        { "day": 4, "title": "Mark anything worth returning to", "detail": "A pencil line, a corner fold, a note — the reader's habit of 'collecting' from the book." },
+        { "day": 5, "title": "Read in the living chair, not the bed", "detail": "Reserve the bed for sleep alone. The chair keeps the couch-night boundary clean." },
+        { "day": 6, "title": "20 pages", "detail": "The chain gains weight: twenty pages of something worth your attention." },
+        { "day": 7, "title": "Light-check night", "detail": "Dim warm light, never overhead bulb, never the screen's blue after dark." },
+        { "day": 8, "title": "Read with something to tell", "detail": "Before you sleep, one sentence you could tell a real person at breakfast." },
+        { "day": 9, "title": "No-skim 20 minutes", "detail": "The 20 minutes survive only if you let the book be slower than the internet." },
+        { "day": 10, "title": "Two books going — one heavy, one light", "detail": "A demanding text and an easy page-turner, so motivation is never the gatekeeper." },
+        { "day": 11, "title": "Steal a real line for the day ahead", "detail": "Take one sentence from tonight's reading and use it — at the table, in an email, in your head next morning." },
+        { "day": 12, "title": "Review what these days built", "detail": "Notice the sleep quality, the mornings, the hours. The reading was the smallest part of the change." },
+        { "day": 13, "title": "A chapter you have been avoiding", "detail": "Read the chapter you moved past. Momentum is the reward of skipping; depth now is its price." },
+        { "day": 14, "title": "Set the permanent slot", "detail": "Choose: 30 minutes before bed becomes a standing entry now? The system — not the challenge — owns the habit." }
+      ],
+      "bonus": ["Read any ten pages from a book the week they are published", "Keep a small commonplace book"]
+    }
+  },
+  {
+    "title": "Read The Room: Baseline And Baseline Plus",
+    "description": "The single skill of telling where every room's energy sits — and where yours should land.",
+    "contentType": "TIP",
+    "category": "KNOWLEDGE",
+    "subcategory": "psychology",
+    "tags": ["psychology", "social", "empathy", "presence"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": false,
+    "payload": {
+      "text": "Every room has a baseline — the default energy it runs on, from funeral flat to kitchen chaos — and the move that lands is 'baseline plus one,' matching the room's true current first and betting one small step toward where they are already heading, never two steps too loud into a room that is grieving or one beat too low into a room that is pitching."
+    }
+  },
+  {
+    "title": "Naming Things Gives You Power",
+    "description": "What you cannot name you cannot control, negotiate, or fix.",
+    "contentType": "TIP",
+    "category": "KNOWLEDGE",
+    "subcategory": "psychology",
+    "tags": ["psychology", "language", "negotiation", "thinking"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": false,
+    "payload": {
+      "text": "The moment you give a thing its precise name — 'the budget meeting,' 'the dip at 4pm,' 'the fear of looking stupid' — it stops being a fog around you and becomes an object you can see, question, and act on. Naming the problem is half the solution, for the same reason that the man with a vocabulary negotiates and the man without one argues."
+    }
+  },
+  {
+    "title": "The Feynman Technique",
+    "description": "The four-step method that exposes exactly which parts of a subject you do not yet understand — and fixes them.",
+    "contentType": "KNOWLEDGE",
+    "category": "KNOWLEDGE",
+    "subcategory": "skills",
+    "tags": ["learning", "psychology", "technique", "knowledge"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": false,
+    "payload": {
+      "body": "Named after the physicist who insisted that you do not really know a thing until you can explain it to a beginner, the Feynman Technique is the fastest way to find the gaps in your own understanding.\n\nWrite the concept you are learning at the top of a blank page — as if for a person who knows nothing about it. Plain language, real examples, no jargon allowed. The moment you reach a word or step where you stumble — where the explanation breaks or you reach for a term instead of an idea — that moment is the gap. Go back to the book or the source until you can close it in plain words, and rewrite that section of the page.\n\nThen test honestly: explain it out loud to someone, or to a voice recorder. The places where you sound like a dictionary instead of a person are the places you still do not own. Finally, simplify: hunt for the words and sentences you can cut, and your one-sentence version of the whole thing. If you can write it and speak it, the knowledge is yours.\n\nThe technique feels like effort because it is the actual work of understanding — which is exactly why the people who skip it and re-read the chapter instead feel clever and stay stuck."
+    }
+  },
+  {
+    "title": "Compound Interest: The Quiet Accelerator",
+    "description": "The simplest force in personal finance — and why the math favours the boring, the early, and the patient.",
+    "contentType": "KNOWLEDGE",
+    "category": "KNOWLEDGE",
+    "subcategory": "general",
+    "tags": ["finance", "money", "investing", "knowledge"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": false,
+    "payload": {
+      "body": "Compound interest is interest on your interest, and it is the closest thing to free money that exists in finance. In the early years it looks like nothing at all — which is exactly why it is ignored. But growth on growth accelerates, and its serious phase arrives exactly when most men are about twenty years away from retiring.\n\nIts arithmetic has three levers. Time is the strongest: starting at 25, a regular small investment beats starting at 40 with twice the monthly amount. Rate is second: a boring index fund's honest long-term average outruns every hobbyist's dartboard yearly. Consistency is third: the account that gets funded every month compounds without ambition getting in the way.\n\nThe ugly side is the equally fast compound interest of debt. Interest owed compounds against you with the same silent engine, which is why a credit card balance at 25% repayments is a fire and a mortgage at 6% is a manageable tool. Used one way the engine builds you a decade of freedom; used the other way it builds a decade of payments.\n\nThe practical takeaway is boring on purpose: start early, automate monthly, leave it alone, and let the calendar do more work than the cleverness. The man who understood compound interest at 25 has retired at 55 — quietly, while the clever investor he out-earned was still trying to time the market."
+    }
+  },
+  {
+    "title": "The Sharp Mind Check",
+    "description": "Six questions testing the small attentions that make up a sharp mind — memory, naming, reading, and noticing.",
+    "contentType": "QUIZ",
+    "category": "KNOWLEDGE",
+    "subcategory": "general",
+    "tags": ["quiz", "mind", "memory", "attention"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": false,
+    "payload": {
+      "intro": "A light check of the daily servants of a sharp mind.",
+      "questions": [
+        {
+          "question": "You are introduced to someone new. What happens next?",
+          "options": ["I am already thinking of my next point", "I repeat their name and use it once", "I nod and forget within a minute", "I make them repeat it"],
+          "answerIndex": 1,
+          "explain": "Repeating the name and using it once is the smallest, highest-yield memory trick there is."
+        },
+        {
+          "question": "The morning headline you read two days ago — can you still say what it was?",
+          "options": ["Barely — most of it flows past me", "Mostly headlines, little detail", "Yes, and the point it was making", "I don't read headlines"],
+          "answerIndex": 2,
+          "explain": "A sharp mind keeps the spine of what it consumed. Chest, not just glance."
+        },
+        {
+          "question": "When a problem resists you at work, you…",
+          "options": ["Try harder at the same angle", "Explain it to a 'beginner' until the gap appears", "Step away until the urge to click disappears", "Ask others to fix it"],
+          "answerIndex": 1,
+          "explain": "Explaining to a beginner — the Feynman move — is how sharp minds find the real gap."
+        },
+        {
+          "question": "How quickly do you notice a change in a familiar room?",
+          "options": ["Almost never", "Within hours", "Within minutes of entering", "Only when it is pointed out"],
+          "answerIndex": 2,
+          "explain": "Noticing small deltas is a trained muscle, and it trains everything else about attention."
+        },
+        {
+          "question": "Your phone is gone for two hours. What happens to your attention?",
+          "options": ["I reach for it constantly", "I get anxious and then calm", "I don't really notice", "Some drift, then I use the time"],
+          "answerIndex": 3,
+          "explain": "Attention that survives without the phone is attention that can be spent on purpose."
+        },
+        {
+          "question": "The last book or article you finished — what did it argue?",
+          "options": ["I don't remember the argument", "The general gist, vaguely", "I could state its thesis in one sentence", "I didn't finish anything"],
+          "answerIndex": 2,
+          "explain": "One-sentence thesis recall is the difference between consuming and owning."
+        }
+      ]
+    }
+  },
+  {
+    "title": "Etiquette Every Man Should Have In 2026",
+    "description": "The manners that signal reliability in a world running at 800km/h — the old rules that still buy trust.",
+    "contentType": "CHECKLIST",
+    "category": "KNOWLEDGE",
+    "subcategory": "etiquette",
+    "tags": ["etiquette", "manners", "social", "professional"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": false,
+    "payload": {
+      "intro": "Etiquette is not bowing; it is the lubrication that lets a room function around you. These ten still run the engine.",
+      "items": [
+        { "label": "Hold the door when another hand is within three steps", "detail": "Holding the door is the cheapest form of respect that exists." },
+        { "label": "Introduce people before the conversation starts", "detail": "A person left un-introduced is a person left out. Name, role, and one bridge sentence." },
+        { "label": "Stand when someone joins or leaves a conversation", "detail": "The physical signal of 'you arrived and changed the room.'" },
+        { "label": "Look at the person paying for the meal when you thank them", "detail": "The thank-you goes to the person who decided, not the server who delivered." },
+        { "label": "Reply within 48 hours, or close the loop promptly", "detail": "The unreplied message is how a reputation quietly erodes — especially in professional rooms." },
+        { "label": "Three questions before one monologue on a first meeting", "detail": "Curiosity before autobiography. The room you give them is the room they remember." },
+        { "label": "Take the seat or the share that is least comfortable", "detail": "The choice of the hard chair, done smoothly, signals consideration without a word." },
+        { "label": "Handle the check without theatre", "detail": "Grab it early, thank quietly, follow through — the settled bill is the whole ceremony." },
+        { "label": "Taste before you season, and season once", "detail": "The act of tasting first is respect for the cook's work, in any language." },
+        { "label": "Silence your phone completely when someone is mid-sentence", "detail": "The silent phone is the respect that individual sentences run on." }
+      ]
+    }
+  },
+  {
+    "title": "The Undershirt Rule",
+    "description": "The color of your undershirt decides the color of your shirt looks like.",
+    "contentType": "TIP",
+    "category": "LOOK",
+    "subcategory": "style",
+    "tags": ["style", "clothing", "details"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": false,
+    "payload": {
+      "text": "Match the undershirt to the color of the outermost fabric you're wearing — white under white and pale blue, navy or charcoal under dark tones, and never a clearly visible one; the undershirt's entire job is to be invisible."
+    }
+  },
+  {
+    "title": "The Evening Wind-Down",
+    "description": "A ten-minute closing sequence that pays the sleep debt before you hit the pillow.",
+    "contentType": "ROUTINE",
+    "category": "BODY",
+    "subcategory": "sleep",
+    "tags": ["sleep", "evening", "routine", "recovery"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": false,
+    "payload": {
+      "overview": "Ten minutes. The wind-down decides what the night and tomorrow propagate.",
+      "steps": [
+        { "title": "Set tomorrow's single outcome", "detail": "The one thing tomorrow must contain — written in one line before it becomes a decision under morning pressure." },
+        { "title": "Phone to the kitchen table, alarm set", "detail": "Phone distance again. The alarm is set on the phone sitting at the table, not next to the bed." },
+        { "title": "Ten slow breaths in the dark", "detail": "Lights low, breathing four seconds in, six out. The heart rate follows instructions it respects." },
+        { "title": "Open the window, cool the room", "detail": "Cool-and-dark is the sleep environment. Sixteen to eighteen degrees wins over blankets." },
+        { "title": "Lay out tomorrow's first move", "detail": "Clothes, bag, the same detail that wins the morning during the fog." },
+        { "title": "Brush, floss, take off the day", "detail": "Dental care is the last care. Then bed, empty mind, repeatable every night." }
+      ]
+    }
+  },
+  {
+    "title": "The Friday Closing Ritual",
+    "description": "Twenty minutes at the end of the workweek that closes it cleanly — so the weekend is a weekend and Monday is not a hangover.",
+    "contentType": "CHECKLIST",
+    "category": "MIND",
+    "subcategory": "focus",
+    "tags": ["productivity", "friday", "checklist", "work"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": false,
+    "payload": {
+      "intro": "The week that is not closed leaks into the weekend. Twenty minutes on Friday sends it home properly.",
+      "items": [
+        { "label": "The inbox hits zero against the trusted inbox", "detail": "All messages triaged: acted, filed, or named 'next week.' The empty inbox is a closed loop." },
+        { "label": "The three priorities of the week get their score", "detail": "One line each: done, moved, or unresolved. Honest scoring kills the vague guilt." },
+        { "label": "Open tasks get their next step and its week", "detail": "Nothing lives as a floating noun. 'Report' becomes 'Monday 9am: intro section.'" },
+        { "label": "The 'parked story' gets a verdict", "detail": "The idea that keeps resurfacing all week: commit to it, or bury it visibly. Decide." },
+        { "label": "The desk and the bag are left ready for Monday", "detail": "Ten minutes of tidying now is the difference between a fresh Monday and a haunted one." },
+        { "label": "The weekend gets one guarded thing", "detail": "One thing you actually want from the weekend, named out loud — so the weekend is chosen, not inherited." },
+        { "label": "Deeper breath than 'it's Friday'", "detail": "Literal. The close of the week deserves a conscious closing ritual, not a collapse." }
+      ]
+    }
+  }
+]

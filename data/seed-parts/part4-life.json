@@ -1,0 +1,221 @@
+[
+  {
+    "title": "Speak So Men Listen",
+    "description": "Talk is cheap and the room knows it. Speak with a spine: fewer words, more frames, better attention.",
+    "contentType": "GUIDE",
+    "category": "LIFE",
+    "subcategory": "communication",
+    "tags": ["communication", "speaking", "career", "confidence"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": false,
+    "payload": {
+      "intro": "Men rarely listen to the loudest voice; they listen to the clearest one. Here is how to be that voice in a meeting, at dinner, and in the argument that matters.",
+      "sections": [
+        {
+          "heading": "Say fewer, heavier sentences",
+          "paragraphs": [
+            "The room's attention is a fixed budget. Ten soft sentences spend it all on nothing; one sharp sentence buys the room. State the point first, then the reason, then the ask. Front-loading the conclusion is the single cheapest upgrade in communication.",
+            "Silence is part of the speech. Pause after the point. A comfortable pause signals confidence; filling every silence signals anxiety."
+          ],
+          "bullets": ["Point first, reason second, ask third", "One sharp sentence beats five soft ones", "Pause after the point on purpose", "Half your normal adverbs, twice your normal silence"]
+        },
+        {
+          "heading": "Ground language, watch the hedge state",
+          "paragraphs": [
+            "Kill the hedges: 'just,' 'kind of,' 'I think,' 'I was wondering if maybe.' They are noise added after rounding down. Compare 'I think we should maybe try X' with 'We run X, and here is why.' The second one is shorter and ten times more listenable.",
+            "Hedges have a place — genuine uncertainty in front of experts. Everywhere else they cost you the room."
+          ],
+          "bullets": ["Cut: just, kind of, maybe, sort of", "State the recommendation, then the reasoning", "Own your numbers; let your evidence hedge for you", "Watch for people talking over the exact men who hedge"]
+        },
+        {
+          "heading": "Pace, volume, and the three-beat rule",
+          "paragraphs": [
+            "Fast speech reads as panic or sales; slow speech reads as certainty. Slow the rate at the point, drop the volume at the end of the sentence, and hold the eye contact for three beats after you finish. The delivery is fifty percent of the argument.",
+            "Body first: stand or sit tall, shoulders square, hands still. Nervous movement makes the room nervous."
+          ],
+          "bullets": ["Slow down at the point", "Volume drops at the end of key sentences", "Eye contact for three beats at the close", "Still hands, square shoulders"]
+        },
+        {
+          "heading": "The frame before the words",
+          "paragraphs": [
+            "The frame decides how the words land. Announce the frame in one line — 'Let me give you the risk picture first,' 'Here is the decision this actually is' — and the room will organise its listening accordingly.",
+            "Answer the question the room is actually asking. Most speakers answer the question they wish had been asked. Honor the real one."
+          ],
+          "bullets": ["Open with the frame in one line", "Answer the real question, not the wished-one", "Name what you are asking for explicitly", "Close with the single decision or ask"]
+        }
+      ],
+      "outro": "Speech is the cheapest instrument of influence you own. Fewer words, grounded language, a slower pace, and a clear frame — you will be quoted from meetings you barely remember."
+    }
+  },
+  {
+    "title": "The Weekly Review: 20 Minutes That Compound",
+    "description": "Twenty minutes, every week, that make the other 167 hours noticeably more effective. The review is the engine of the plan.",
+    "contentType": "ROUTINE",
+    "category": "LIFE",
+    "subcategory": "career",
+    "tags": ["career", "planning", "review", "growth"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": false,
+    "payload": {
+      "overview": "A fixed, cathartic twenty minutes every week to close the loop on the calendar and open the next one on purpose.",
+      "steps": [
+        { "title": "Find the fixed slot (e.g., Sunday 6pm)", "detail": "Same day, same time, every week. The habit is the calendar entry itself — nothing else makes the review survive." },
+        { "title": "Empty the inboxes", "detail": "Email, messages, photos, notes: process to zero. Sort into 'act,' 'file,' 'later' — no open loops left roaming the week." },
+        { "title": "Close the calendar chapter", "detail": "For each week block, ask the two questions: what moved the needle, and what ate the week without earning it? Name one of each." },
+        { "title": "Review the three priorities", "detail": "Check the three priorities you set for the week. Honest scoring: 3 done, 1 moved, 1 loss. No judgement, just truth." },
+        { "title": "Restore the three priorities for next week", "detail": "Write the next three — order by consequence. Back them with a 90-minute block each, in the calendar, before the week starts." },
+        { "title": "Scan the pipeline", "detail": "Ten seconds on the long list — the thing you keep saying 'later.' If it has survived three reviews, decide now: commit to it, or bury it." }
+      ]
+    }
+  },
+  {
+    "title": "Lead With The Outcome In Emails",
+    "description": "Nobody is reading your second paragraph first. Deliver the ask on line one.",
+    "contentType": "TIP",
+    "category": "LIFE",
+    "subcategory": "career",
+    "tags": ["communication", "email", "career", "writing"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": false,
+    "payload": {
+      "text": "In every work email, state the desired outcome in the first line — 'Moving the launch to Thursday, needs your sign-off' — then the two-sentence reason, then the one action item. If the reader reads nothing else, they still have the whole email."
+    }
+  },
+  {
+    "title": "Do Not Reply For 10 Minutes",
+    "description": "Reactive replies compound into a career of apologising for words you sent in ten seconds of temperature.",
+    "contentType": "TIP",
+    "category": "LIFE",
+    "subcategory": "communication",
+    "tags": ["communication", "email", "negotiation", "career"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": false,
+    "payload": {
+      "text": "For any message that provokes a physical response — heat in the chest, a fast heart, the urge to fire back — wait ten minutes, open a blank email, write the reply you would never send, delete it, then write the one you would send to your own reputation."
+    }
+  },
+  {
+    "title": "Show Up Twice",
+    "description": "The difference between a casual acquaintance and a real network is one word: twice.",
+    "contentType": "TIP",
+    "category": "LIFE",
+    "subcategory": "social",
+    "tags": ["social", "relationships", "networking", "friendship"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": false,
+    "payload": {
+      "text": "The first meeting opens the door and everyone forgets. The second appearance — the follow-up message, the coffee when it matters, the seat two rows closer — is the appearance people remember. Relationships: show up once is traffic; show up twice is a commitment."
+    }
+  },
+  {
+    "title": "How Do You Actually Talk?",
+    "description": "A six-question mirror on how your words land — and where one small change would buy you the most.",
+    "contentType": "QUIZ",
+    "category": "LIFE",
+    "subcategory": "communication",
+    "tags": ["communication", "quiz", "listening", "speaking"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": false,
+    "payload": {
+      "intro": "Six honest questions about how you behave when the floor is yours.",
+      "questions": [
+        {
+          "question": "When someone is speaking, you are…",
+          "options": ["Preparing my next point", "Waiting for my turn", "Actually following theirs", "Checking my phone"],
+          "answerIndex": 2,
+          "explain": "The best speakers are built first as the best listeners — listening is the whole secret."
+        },
+        {
+          "question": "Your emails and messages tend to…",
+          "options": ["Wrap up in pleasantries before the ask", "State the point in the first line", "Reply to everything instantly", "Go unanswered for days"],
+          "answerIndex": 1,
+          "explain": "Leading with the outcome is the delivery system that costs you nothing and buys the most."
+        },
+        {
+          "question": "In an argument, your default is…",
+          "options": ["Louder and faster until I land it", "Withdraw, then replay it alone", "Fewer words and a slower pace", "Change the subject"],
+          "answerIndex": 2,
+          "explain": "Fewer, slower words in disagreement is how the argument is actually won — or ended cleanly."
+        },
+        {
+          "question": "How do you ask for things at work?",
+          "options": ["I hint and hope", "I ask directly, outcome first", "I wait until asked", "I over-explain the reasons"],
+          "answerIndex": 1,
+          "explain": "A direct ask with the outcome named is readable, respectable, and answered — usually yes."
+        },
+        {
+          "question": "When you meet someone new, you…",
+          "options": ["Talk about myself so they know me", "Ask, then actually follow up", "Freeze and wait for rescue", "Make an excuse to leave"],
+          "answerIndex": 1,
+          "explain": "Questions plus follow-up — the second meeting is where any real connection appears."
+        },
+        {
+          "question": "The last time I told someone how I actually felt…",
+          "options": ["Can't remember", "It ended badly", "It cost me something but was worth it", "I say it all the time, openly"],
+          "answerIndex": 2,
+          "explain": "Honesty with a cost attached is the pattern that builds trust — most men under-use it, not over."
+        }
+      ]
+    }
+  },
+  {
+    "title": "Why Friendships Fade",
+    "description": "Friendships die of neglect long before they die of argument. The arithmetic is brutally simple.",
+    "contentType": "KNOWLEDGE",
+    "category": "LIFE",
+    "subcategory": "relationships",
+    "tags": ["friendship", "relationships", "social", "knowledge"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": false,
+    "payload": {
+      "body": "Friendships rarely end in a fight. They end in silence: three missed calls, four 'we should catch up' exchanges, a year between coffees, and one day you realise there is no longer a friendship to end. The cause is not malice; it is inattention, which feels to the other person exactly like malice.\n\nThe arithmetic is simple. A friendship needs fuel every few weeks — a message, a hangout, a genuine question. When the interval stretches past about three months, the friendship quietly moves from 'active' to 'archive,' and everyone starts pretending it never happened. The reason men blame is time; the actual reason is priority.\n\nTwo habits reverse the fade. First, anchored touch: one recurring fortnightly call, gym session, or coffee — the calendar does the remembering that the urge cannot. Second, the asymmetry rule: when you feel the gap, you are the one who acts. Waiting for them to carry the weight has ended more friendships than any fight ever did. Friendship, like the body, is not maintained by occasional intensity. It is maintained by small, boring, regular deposits — and it responds to them immediately."
+    }
+  },
+  {
+    "title": "Money Is Behavior, Not Math",
+    "description": "You do not have a math problem; you have a behaviour problem. And behaviour responds to systems, not to shame.",
+    "contentType": "KNOWLEDGE",
+    "category": "LIFE",
+    "subcategory": "money",
+    "tags": ["money", "finance", "habits", "knowledge"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": false,
+    "payload": {
+      "body": "If money were math, everyone who can multiply would be wealthy. The gap between what people know and what they do is not arithmetic — it is behaviour: stress spending, subscription amnesia, convenience purchases, and the automatic assumption that next month will be 'the controllable one.'\n\nBehaviour has its own levers, and they are stronger than knowledge. The first is automation: an automatic transfer on payday makes saving invisible, which is the honest definition of a habit that works. The second is friction: delete the saved card, wait twenty-four hours on any purchase over a certain amount, keep the budget in cash if cash is the terrain — you are designing the impulse to arrive after the moment has passed. The third is measurement without judgement: a leak you can see is a leak that half-fixes itself.\n\nGet those three running and the math — already known — finally starts to compound. You rarely need a smarter plan. You need a dumber, smaller, automatic one. The man who knows ten things and does five is richer than the man who knows a hundred and does none."
+    }
+  },
+  {
+    "title": "Before You Buy Anything Over $200",
+    "description": "The ten-question cooling-off room between the impulse and the purchase.",
+    "contentType": "CHECKLIST",
+    "category": "LIFE",
+    "subcategory": "money",
+    "tags": ["money", "finance", "checklist", "spending"],
+    "difficulty": "BEGINNER",
+    "source": null,
+    "featured": false,
+    "payload": {
+      "intro": "This is the door between an impulse and a mistake. Walk through all ten before spending the money.",
+      "items": [
+        { "label": "Sleep on it — one full night", "detail": "Nothing over $200 is decided today. Sellers design urgency; you design patience." },
+        { "label": "Name what problem it actually solves", "detail": "If the answer is 'I just like it,' it is entertainment clothing, not a purchase." },
+        { "label": "Check it against a list, not a mood", "detail": "If it is not on a planned list, it is not planned." },
+        { "label": "Will I use it weekly for a year?", "detail": "Cost divided by uses is the real price. A $300 trainer used daily costs less than a $30 gadget used twice." },
+        { "label": "Can the same week afford it?", "detail": "The rule: can this purchase survive this specific week's other commitments without moving anything? Or does it need 'future me' paid in advance?" },
+        { "label": "Run the 24-hour price double check", "detail": "One search for the same item elsewhere. Often half the discount is the search you did not do." },
+        { "label": "Check the return policy before you buy", "detail": "The exit matters. No return, no receipt, no deal." },
+        { "label": "Is this a replacement or an addition?", "detail": "Replacing a worn-out tool is maintenance. Adding to a drawer of near-identical tools is decoration." },
+        { "label": "Would I take this again if I had to give up a $200 day of my time?", "detail": "The real currency of the purchase is hours of your effort. The question makes the trade visible." },
+        { "label": "Commit out loud, once", "detail": "Say the decision aloud to a person. The sentence organizes the brain better than the silence does." }
+      ]
+    }
+  }
+]
