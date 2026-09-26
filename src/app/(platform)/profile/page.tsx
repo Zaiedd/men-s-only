@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { prisma } from "@/lib/prisma";
-import { requireSession } from "@/lib/auth";
+import { requireSessionOrRedirect } from "@/lib/auth";
 import { CATEGORIES } from "@/lib/site";
 import { parsePayload, type ChallengePayload } from "@/lib/payload";
 
@@ -16,7 +16,7 @@ const ACTIVITY_LABEL: Record<string, string> = {
 };
 
 export default async function ProfilePage() {
-  const session = await requireSession();
+  const session = await requireSessionOrRedirect("/profile");
 
   const [user, savedCount, inProgress, completed, activity, challenges] =
     await Promise.all([

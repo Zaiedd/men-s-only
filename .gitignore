@@ -39,6 +39,14 @@ yarn-error.log*
 *.log
 .dev/
 
+# opennext / cloudflare build + local state
+/.open-next/
+/.wrangler/
+wrangler.toml
+
+# local D1 data export (contains user rows + password hashes)
+/prisma/d1-data.sql
+
 # vercel
 .vercel
 

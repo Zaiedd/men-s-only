@@ -1,11 +1,11 @@
 import { prisma } from "@/lib/prisma";
-import { requireSession } from "@/lib/auth";
+import { requireSessionOrRedirect } from "@/lib/auth";
 import { ContentCard } from "@/components/ContentCard";
 
 export const dynamic = "force-dynamic";
 
 export default async function SavedPage() {
-  const session = await requireSession();
+  const session = await requireSessionOrRedirect("/saved");
   const saved = await prisma.savedItem.findMany({
     where: { userId: session.userId },
     select: {

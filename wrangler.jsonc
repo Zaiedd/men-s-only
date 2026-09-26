@@ -1,0 +1,22 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "main": ".open-next/worker.js",
+  "name": "mens-only",
+  "compatibility_date": "2026-09-26",
+  "compatibility_flags": ["nodejs_compat", "global_fetch_strictly_public"],
+  "assets": {
+    "directory": ".open-next/assets",
+    "binding": "ASSETS"
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "mens-only-db",
+      "database_id": "03d2ddbb-7bee-4c42-976c-90e44bc3d698",
+      "migrations_dir": "prisma/d1-migrations"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}

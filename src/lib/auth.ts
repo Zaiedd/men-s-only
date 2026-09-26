@@ -1,6 +1,7 @@
 import { SignJWT, jwtVerify } from "jose";
 import bcrypt from "bcryptjs";
 import { cookies } from "next/headers";
+import { redirect } from "next/navigation";
 import type { Role } from "@/generated/prisma/enums";
 
 const SECRET = new TextEncoder().encode(process.env.AUTH_SECRET || "mens-only-dev-secret");
@@ -74,5 +75,15 @@ export async function requireSession(
   if (!session) throw new Error("unauthenticated");
   if (opts.roles && !opts.roles.includes(session.role))
     throw new Error("forbidden");
+  return session;
+}
+
+export async function requireSessionOrRedirect(
+  pathname: string,
+  opts: { roles?: Role[] } = {},
+): Promise<SessionPayload> {
+  const session = await getSession();
+  if (!session) redirect(`/auth/login?next=${encodeURIComponent(pathname)}`);
+  if (opts.roles && !opts.roles.includes(session.role)) redirect("/");
   return session;
 }

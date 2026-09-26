@@ -11,10 +11,18 @@
     "db:push": "prisma db push",
     "db:seed": "prisma db seed",
     "db:studio": "prisma studio",
-    "db:reset": "prisma migrate reset --force"
+    "db:reset": "prisma migrate reset --force",
+    "deploy": "opennextjs-cloudflare build && opennextjs-cloudflare deploy",
+    "preview": "opennextjs-cloudflare build && opennextjs-cloudflare preview",
+    "upload": "opennextjs-cloudflare build && opennextjs-cloudflare upload",
+    "d1:schema": "prisma migrate diff --from-empty --to-schema prisma/schema.prisma --script > prisma/d1-schema.sql",
+    "d1:export": "node scripts/export-to-d1.mjs"
   },
   "dependencies": {
+    "@cloudflare/workers-types": "^5.20260926.1",
+    "@opennextjs/cloudflare": "^1.20.6",
     "@prisma/adapter-better-sqlite3": "^7.10.0",
+    "@prisma/adapter-d1": "^7.10.0",
     "@prisma/client": "^7.10.0",
     "bcryptjs": "^3.0.3",
     "better-sqlite3": "^13.0.3",
@@ -23,6 +31,7 @@
     "next": "16.3.6",
     "react": "19.2.8",
     "react-dom": "19.2.8",
+    "wrangler": "^4.141.0",
     "zod": "^4.6.5"
   },
   "devDependencies": {
@@ -42,6 +51,7 @@
     "prisma": true,
     "@prisma/engines": true,
     "esbuild": true,
-    "unrs-resolver": true
+    "unrs-resolver": true,
+    "workerd@1.20260925.1": true
   }
 }
