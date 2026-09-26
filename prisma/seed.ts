@@ -85,16 +85,21 @@ async function main() {
   // ---------- admin user ----------
   const adminEmail = (process.env.SEED_ADMIN_EMAIL || "admin@mensonly.com").toLowerCase();
   const adminName = process.env.SEED_ADMIN_NAME || "Admin";
-  const adminPassword = process.env.SEED_ADMIN_PASSWORD || "MensOnly@2026!";
+  const adminPassword = process.env.SEED_ADMIN_PASSWORD;
+  if (!adminPassword) {
+    throw new Error(
+      "SEED_ADMIN_PASSWORD is not set. Provide a strong password and re-run:\n" +
+        "  PowerShell:  $env:SEED_ADMIN_PASSWORD='YourStrong@Pass!'; npm run db:seed\n" +
+        "  bash/zsh:    SEED_ADMIN_PASSWORD='YourStrong@Pass!' npm run db:seed",
+    );
+  }
   const passwordHash = await bcrypt.hash(adminPassword, 10);
   const admin = await prisma.user.upsert({
     where: { email: adminEmail },
     create: { email: adminEmail, name: adminName, passwordHash, role: "ADMIN" as const },
     update: { role: "ADMIN" as const },
   });
-  console.log(
-    `Admin ready → ${adminEmail}  (password: ${envPasswordSource()})`,
-  );
+  console.log(`Admin ready → ${adminEmail}  (password: from SEED_ADMIN_PASSWORD)`);
 
   // ---------- content ----------
   const items = loadSeedItems();
@@ -174,10 +179,6 @@ async function main() {
     console.log(`  ${g.contentType}: ${g._count}`);
   }
   void admin;
-}
-
-function envPasswordSource(): string {
-  return process.env.SEED_ADMIN_PASSWORD ? "from env" : "MensOnly@2026!";
 }
 
 main()
